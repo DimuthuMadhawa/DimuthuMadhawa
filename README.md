@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=200&section=header&text=A.%20Dimuthu%20Madhawa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=200&section=header&text=A.%20Dimuthu%20Madhawa&fontSize=50&fontColor=ffffff&fontA[...]">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Learning+Laravel+%26+Bootstrap+%F0%9F%8C%B1;Open+to+Collaborations+%F0%9F%A4%9D;Ask+me+about+Java+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Learning+Larav[...]">
 </a>
 
 <br/><br/>
@@ -31,6 +31,7 @@ collaboration: Job Vacancies Application Project
 ask_me_about: Java
 email: dimuthumadhawa000@gmail.com
 fun_fact: I turn coffee into code ☕
+created_new_project: I created a new project.
 ```
 
 ---
@@ -82,23 +83,23 @@ fun_fact: I turn coffee into code ☕
 <div align="center">
 
 <!-- Stats Cards Row 1 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimuthumadhawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimuthumadhawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0[...]">
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthumadhawa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthumadhawa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e[...]">
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthumadhawa&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthumadhawa&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=00d4ff&currStreakLabe[...]">
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dimuthumadhawa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0e75b6&line=00d4ff&point=ffffff&area=true&area_color=0e75b6" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dimuthumadhawa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0e75b6&line=00d4ff&point=ffffff&area=t[...]">
 
 </div>
 
